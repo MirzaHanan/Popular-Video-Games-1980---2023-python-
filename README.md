@@ -1,8 +1,5 @@
 # Popular-Video-Games-1980---2023-python-
 
-Sure, here is the README file in Markdown style:
-
-
 ## Project Name: Popular Video Games 1980-2023
 
 ## Project Status: Completed
